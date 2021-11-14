@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/smart-parking-app/static/css/main.68381fac.chunk.css",
+    "main.js": "/smart-parking-app/static/js/main.5b939257.chunk.js",
+    "main.js.map": "/smart-parking-app/static/js/main.5b939257.chunk.js.map",
+    "runtime-main.js": "/smart-parking-app/static/js/runtime-main.329c1556.js",
+    "runtime-main.js.map": "/smart-parking-app/static/js/runtime-main.329c1556.js.map",
+    "static/js/2.6e463cb2.chunk.js": "/smart-parking-app/static/js/2.6e463cb2.chunk.js",
+    "static/js/2.6e463cb2.chunk.js.map": "/smart-parking-app/static/js/2.6e463cb2.chunk.js.map",
+    "static/js/3.6e7a4ede.chunk.js": "/smart-parking-app/static/js/3.6e7a4ede.chunk.js",
+    "static/js/3.6e7a4ede.chunk.js.map": "/smart-parking-app/static/js/3.6e7a4ede.chunk.js.map",
+    "index.html": "/smart-parking-app/index.html",
+    "static/css/main.68381fac.chunk.css.map": "/smart-parking-app/static/css/main.68381fac.chunk.css.map",
+    "static/js/2.6e463cb2.chunk.js.LICENSE.txt": "/smart-parking-app/static/js/2.6e463cb2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.329c1556.js",
+    "static/js/2.6e463cb2.chunk.js",
+    "static/css/main.68381fac.chunk.css",
+    "static/js/main.5b939257.chunk.js"
+  ]
+}
